@@ -1,2 +1,4 @@
 # Blue Umbrella
-Working space for python scripts for querying Active Directory
+Project name for the Preston & Ashley Wine Database.
+
+Yes, we have wine snob alias.

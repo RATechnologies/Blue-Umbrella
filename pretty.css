@@ -1,0 +1,20 @@
+table td {
+	border-color: #000000;
+	text-align: left;
+	border-style: groove;
+	border: 1px solid black;
+	
+}
+table th {
+	background-color: #ADD8E6;
+	border: 1px solid black;
+	text-align: center;
+	}
+h1 {
+  color: red;
+  text-align: center;
+}
+h2 {
+	color: blue;
+	text-align: left;
+	}
